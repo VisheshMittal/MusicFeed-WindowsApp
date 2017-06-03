@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="50235VisionlyStudios.musicfeed" Publisher="CN=18435B99-8C05-480C-A79A-AFC85548976E" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>music feed</DisplayName>
+    <PublisherDisplayName>Visionly Studios</PublisherDisplayName>
+    <Logo>Assets\logo50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="App2.App">
+      <VisualElements DisplayName="music feed" Logo="Assets\logo150x150.png" SmallLogo="Assets\logo30x30.png" Description="music feed, powered by Nokia Music, brings full-featured music-timeline at your fingertips." ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\logo620x300.png" BackgroundColor="#1133CC" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

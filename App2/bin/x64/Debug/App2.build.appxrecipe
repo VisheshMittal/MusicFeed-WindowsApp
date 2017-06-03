@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHU</Machine>
+    <WindowsUser>v!shu</WindowsUser>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\App2.exe">
+      <PackagePath>App2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\App2.pdb">
+      <PackagePath>App2.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\packages\Callisto.1.3.1\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\packages\linqtotwitter.2.1.8\lib\winrt45\LinqToTwitterRT.dll">
+      <PackagePath>LinqToTwitterRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\packages\NokiaMusic.3.1.5\lib\windows8\Nokia.Music.Win8.dll">
+      <PackagePath>Nokia.Music.Win8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\logo150x150.png">
+      <PackagePath>Assets\logo150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\logo30x30.png">
+      <PackagePath>Assets\logo30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\logo50x50.png">
+      <PackagePath>Assets\logo50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\logo620x300.png">
+      <PackagePath>Assets\logo620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\music200.png">
+      <PackagePath>Assets\music200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Images\Electric-Guitar-02.png">
+      <PackagePath>Images\Electric-Guitar-02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Images\logo.png">
+      <PackagePath>Images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Images\Text Edit.png">
+      <PackagePath>Images\Text Edit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Images\Twitter-Bird.png">
+      <PackagePath>Images\Twitter-Bird.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\Images\music_panorama_bg.jpg">
+      <PackagePath>Images\music_panorama_bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\Singers.xaml">
+      <PackagePath>Singers.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\Songs.xaml">
+      <PackagePath>Songs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\Tweets.xaml">
+      <PackagePath>Tweets.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\SingersInfo.xaml">
+      <PackagePath>SingersInfo.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\_TweetsPage.xaml">
+      <PackagePath>_TweetsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\packages\Callisto.1.3.1\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v!shu\documents\visual studio 2012\Projects\App2\App2\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
